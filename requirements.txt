@@ -1,0 +1,12 @@
+langchain
+streamlit
+bs4
+langchainhub
+langchain-chroma
+langchain_openai
+langchain-community
+huggingface
+pypdf
+faiss-gpu
+sentence-transformers
+langchain-groq
